@@ -1,0 +1,7 @@
+C:\Users\Positivo Premium\Desktop\Projetos C Sharp\DecompilarIntro\Decompilar\bin\Debug\Decompilar.exe.config
+C:\Users\Positivo Premium\Desktop\Projetos C Sharp\DecompilarIntro\Decompilar\bin\Debug\Decompilar.exe
+C:\Users\Positivo Premium\Desktop\Projetos C Sharp\DecompilarIntro\Decompilar\bin\Debug\Decompilar.pdb
+C:\Users\Positivo Premium\Desktop\Projetos C Sharp\DecompilarIntro\Decompilar\obj\Debug\Decompilar.csprojAssemblyReference.cache
+C:\Users\Positivo Premium\Desktop\Projetos C Sharp\DecompilarIntro\Decompilar\obj\Debug\Decompilar.csproj.CoreCompileInputs.cache
+C:\Users\Positivo Premium\Desktop\Projetos C Sharp\DecompilarIntro\Decompilar\obj\Debug\Decompilar.exe
+C:\Users\Positivo Premium\Desktop\Projetos C Sharp\DecompilarIntro\Decompilar\obj\Debug\Decompilar.pdb
